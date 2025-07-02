@@ -2,6 +2,8 @@
 
 Search files by content via skim and ripgrep, open with neovim
 
+![image](https://github.com/user-attachments/assets/675bf8d7-6ab1-4182-9402-14bdf45ece17)
+
 ## Dependencies
 
 * [`skim`](https://github.com/skim-rs/skim)
