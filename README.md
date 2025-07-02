@@ -9,6 +9,7 @@ Search files by content via skim and ripgrep, open with neovim
 * [`skim`](https://github.com/skim-rs/skim)
 * [`ripgrep`](https://github.com/BurntSushi/ripgrep)
 * [`bat`](https://github.com/sharkdp/bat)
+* [neovim](https://github.com/neovim/neovim)
 
 ## Installation
 
