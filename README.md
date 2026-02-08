@@ -1,3 +1,6 @@
+> [!WARNING]
+> I have switched to using [television](https://github.com/alexpasmantier/television) for fuzzy searching. This project is no longer maintained. You can try my other project: [https://github.com/cap153/tv.yazi](https://github.com/cap153/tv.yazi)
+
 # skim-rg.yazi
 
 Search files by content via skim and ripgrep, open with neovim
